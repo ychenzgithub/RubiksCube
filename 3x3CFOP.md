@@ -85,5 +85,5 @@ CFOP主要包含四个步骤: <img src="https://ruwix.com/pics/fridrich/00-jumbl
 	* 若需要相邻交换 <img src="http://www.rubik.com.cn/image/cfop/pll4.gif" width="40" /> ```(M2 U) (M2 U) (M' U2 M2 U2 M' U2)```
 
 #### 正式方法
-[CFOP公式列表](https://drive.google.com/file/d/0B83M0mP_zW7VdmI0TW90ZHY1ZVE/view)
+[CFOP公式列表](https://github.com/ychenzgithub/RubiksCube/blob/master/CFOP_list.pdf)
 
