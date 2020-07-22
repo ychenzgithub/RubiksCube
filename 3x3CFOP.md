@@ -80,7 +80,10 @@ CFOP主要包含四个步骤: <img src="https://ruwix.com/pics/fridrich/00-jumbl
 	* 找不到一条两角同色的边，<img src="http://www.rubik.com.cn/image/cfop/pll7_1.gif" width="40" /> ```(R2 U R' U') y (R U R' U')2 (R U R') y' (R U' R2)```
 * PLL2. 调整顶层中间块位置
 	* 若一边完成，让另三中间快🔄转 <img src="http://www.rubik.com.cn/image/cfop/pll1.gif" width="40" /> ```(RU’)(RURU)(RU’) (R’U’R2)```
+	or ```(M2U)(M'U2M)(UM2)``` (This sounds easiler to memorize)
 	* 若一边完成，让另三中间块🔃转 <img src="http://www.rubik.com.cn/image/cfop/pll2.gif" width="40" /> ```(R2’U) (RUR’U’) (R’U’R’U) R’```
+	or ```(M2U')(M'U2M)(U'M2)``` (This sounds easiler to memorize)
+	
 	* 若需要对面交换 <img src="http://www.rubik.com.cn/image/cfop/pll3.gif" width="40" /> ```M2 U M2 U2 M2 U M2```
 	* 若需要相邻交换 <img src="http://www.rubik.com.cn/image/cfop/pll4.gif" width="40" /> ```(M2 U) (M2 U) (M' U2 M2 U2 M' U2)```
 
