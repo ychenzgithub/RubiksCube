@@ -70,7 +70,7 @@ CFOP主要包含四个步骤: <img src="https://ruwix.com/pics/fridrich/00-jumbl
 	* 6 - <img src="http://www.rubik.com.cn/newimage/oll57/O47.gif" width="40" />```F' (L' U' L U)2 F``` (43散镜像)
 	* 7 - <img src="http://www.rubik.com.cn/newimage/oll57/O51.gif" width="40" />```f(R U R' U')2 f'```(一字左2：横一字，左侧2黄，右侧无黄)
 * [其它公式](https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/orient-the-last-layer-oll/)
-	* 1-1: 右下小鱼（右侧有黄片），第一步为将右侧黄片往鱼头转
+	* 1-1：右下小鱼（右侧有黄片），第一步为将右侧黄片往鱼头转
 	* 1-2：右上小鱼（右侧有黄片），第一步为将右侧黄片往鱼头转
 	* 1-3：左侧甲鱼，第一步为转身子与头分开
 	* 1-4：可见双箭头（俩侧黄面在左方和下方可见位置），公式与1-3左侧甲鱼类似，只是将最后一步提前到第一步
@@ -81,9 +81,9 @@ CFOP主要包含四个步骤: <img src="https://ruwix.com/pics/fridrich/00-jumbl
 	* 2-2：往左投篮，公式与2-1左散T形类似，第一步将F变为f
 	* 2-3：往右投篮，公式为2-2往左投篮左右镜像
 	* 2-4：左侧T形（T形尖头朝左，四个侧黄片在T形两侧），公式与1-3左侧甲鱼类似，只是第一步将r变成R，横切龟身变为横切T头
-	* 2-5: 左上pacman（小pacman形，头朝左上，侧面连着两片为尾巴，甩向右边），公式与2-4左散T形类似，中间RUR'U'做两遍
+	* 2-5：左上pacman（小pacman形，头朝左上，侧面连着两片为尾巴，甩向右边），公式与2-4左散T形类似，中间RUR'U'做两遍
 	* 2-6：右上pacman，公式为2-5左上pacman镜像
-	* 2-7: 左行巴士（往左行，中间一字，前面车灯），公式与2-5左上pacman类似，第一步将F变为f
+	* 2-7：左行巴士（往左行，中间一字，前面车灯），公式与2-5左上pacman类似，第一步将F变为f
 	
 	
 ### 第四步：PLL 完成顶块位置
