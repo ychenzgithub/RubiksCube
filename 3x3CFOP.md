@@ -54,11 +54,11 @@ CFOP主要包含四个步骤: <img src="https://ruwix.com/pics/fridrich/00-jumbl
 * OLL2. 对好顶层角块朝向 - 7个小鱼公式
 	* <img src="http://www.rubik.com.cn/image/cfop/oll27.gif" width="40" /> ```(R' U2 R) (U R' U R)  U2``` (鱼头朝右下，一二两步均以朝鱼头转开始)
 	* <img src="http://www.rubik.com.cn/image/cfop/oll26.gif" width="40" /> ```(R U2 R') (U' R U' R')``` (鱼头朝右上，一二两步均以朝鱼头转开始)
-	* <img src="http://www.rubik.com.cn/image/cfop/oll24.gif" width="40" /> ```(r U R' U') (r' F R F')``` 
-	* <img src="http://www.rubik.com.cn/image/cfop/oll25.gif" width="40" /> ```F'(r U R' U') (r' F R)``` (与上公式类似，将最后F’提前到第一步做)
-	* <img src="http://www.rubik.com.cn/image/cfop/oll23.gif" width="40" /> ```(R2 D') (R U'U') (R' D) (R U'U' R)```
-	* <img src="http://www.rubik.com.cn/image/cfop/oll21.gif" width="40" /> ```(R U U R' U') (R U R' U') (R U' R')```
-	* <img src="http://www.rubik.com.cn/image/cfop/oll22.gif" width="40" /> ```R U'U' (R2' U') (R2 U') R2' U2 R```
+	* <img src="http://www.rubik.com.cn/image/cfop/oll24.gif" width="40" /> (T shape) ```(r U R' U') (r' F R F')``` 
+	* <img src="http://www.rubik.com.cn/image/cfop/oll25.gif" width="40" /> (L shape) ```F'(r U R' U') (r' F R)``` (与上公式类似，将最后F’提前到第一步做)
+	* <img src="http://www.rubik.com.cn/image/cfop/oll23.gif" width="40" /> (U shape) ```(R2 D') (R U2 R') D (R U2 R)```
+	* <img src="http://www.rubik.com.cn/image/cfop/oll21.gif" width="40" /> (H shape) ```(R U2 R' U') (R U R' U') (R U' R')``` 或者 ``` F (R U R' U')x3 F'```
+	* <img src="http://www.rubik.com.cn/image/cfop/oll22.gif" width="40" /> (Pi shape) ```R U2 (R2' U') (R2 U') R2' U2 R```
 	
 #### 正式方法 (直接完成顶部十字和角块朝向)
 * 最简单不用背七个公式
