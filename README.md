@@ -12,19 +12,18 @@ A hand-written Rubik's Cube tutorial built around the 3×3: an easy layer-by-lay
 
 ## Contents · 目录
 
-| Topic | 主题 | Website | Original notes |
-| :--- | :--- | :--- | :--- |
-| Basics: colours & notation | 基本知识 | [Basics](https://ychenzgithub.github.io/RubiksCube/#basics) | [Basic.md](./Basic.md) |
-| 3×3 beginner (layer-by-layer) method | 三阶魔方层先法 | [Beginner method](https://ychenzgithub.github.io/RubiksCube/#beginner) | [3x3layer.md](./3x3layer.md) |
-| 3×3 CFOP method (Cross, F2L, OLL, PLL) | 三阶魔方 CFOP 法 | [CFOP](https://ychenzgithub.github.io/RubiksCube/#cfop) | [3x3CFOP.md](./3x3CFOP.md) |
-| 2×2 cube | 二阶魔方 | [2×2](https://ychenzgithub.github.io/RubiksCube/#two) | [2x2.md](./2x2.md) |
-| 4×4 reduction method & parity | 四阶魔方降维法 | [4×4](https://ychenzgithub.github.io/RubiksCube/#four) | [4x4.md](./4x4.md) |
-| Useful links | 有用链接 | [Resources](https://ychenzgithub.github.io/RubiksCube/#links) | [info.md](./info.md) |
-| Full CFOP algorithm list | CFOP 公式列表 | — | [CFOP_list.pdf](./CFOP_list.pdf) |
+| Topic | 主题 | Website |
+| :--- | :--- | :--- |
+| Basics: colours & notation | 基本知识 | [Basics](https://ychenzgithub.github.io/RubiksCube/#basics) |
+| 3×3 beginner (layer-by-layer) method | 三阶魔方层先法 | [Beginner method](https://ychenzgithub.github.io/RubiksCube/#beginner) |
+| 3×3 CFOP method (Cross, F2L, OLL, PLL) | 三阶魔方 CFOP 法 | [CFOP](https://ychenzgithub.github.io/RubiksCube/#cfop) |
+| 2×2 cube | 二阶魔方 | [2×2](https://ychenzgithub.github.io/RubiksCube/#two) |
+| 4×4 reduction method & parity | 四阶魔方降维法 | [4×4](https://ychenzgithub.github.io/RubiksCube/#four) |
+| Useful links | 有用链接 | [Resources](https://ychenzgithub.github.io/RubiksCube/#links) |
+| Full CFOP algorithm list | CFOP 公式列表 | [CFOP_list.pdf](./CFOP_list.pdf) |
 
 ## How the website works
 
 - `index.html`, `assets/css/style.css` — the page (static, hosted on GitHub Pages).
 - `assets/js/cube.js` — a small N×N×N cube simulator. Each diagram is drawn by applying the inverse of its algorithm to a solved cube, so a diagram always matches its algorithm.
 - `assets/js/app.js` — language switching, diagram rendering, and the 3D player, which uses [cubing.js](https://js.cubing.net/cubing/) (`<twisty-player>`).
-- The Markdown files are the original notes.
